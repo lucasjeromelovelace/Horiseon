@@ -16,4 +16,4 @@ Retitled website to have descriptive concise title
 TBD
 
 <Screenshot>
-
+![Screen Shot 2023-07-04 at 2 24 19 PM](https://github.com/lucasjeromelovelace/Horiseon/assets/99099060/d567694a-7c74-4665-bc03-02c985ad4947)
