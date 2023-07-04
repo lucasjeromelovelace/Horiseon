@@ -1,8 +1,8 @@
 # Code Refactor Starter Code
 
-<Horiseon> 
+## Horiseon
 
-<Description>
+## Description
 
 Refactored existing HTML and input semantic elements
 
@@ -12,8 +12,8 @@ Improved website accessibility with alt attributes
 
 Retitled website to have descriptive concise title
 
-##Usage 
-TBD
+## Usage 
+https://lucasjeromelovelace.github.io/Horiseon/
 
-<Screenshot>
-![Screen Shot 2023-07-04 at 2 24 19 PM](https://github.com/lucasjeromelovelace/Horiseon/assets/99099060/d567694a-7c74-4665-bc03-02c985ad4947)
+## Screenshot
+<img src="./assets/images/screenshot.png" alt="horieson webpage screenshot">
